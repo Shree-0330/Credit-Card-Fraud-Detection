@@ -1,5 +1,10 @@
 # 💳 Credit Card Fraud Detection
 
+## 🚀 Live Demo
+
+👉 [Open Live Streamlit App]( https://credit-card-fraud-detection-nfmnhdev2dqrfcubf3amk9.streamlit.app)
+ # 💳 Credit Card Fraud Detection
+
 A Machine Learning web application that detects whether a credit card transaction is **Genuine** or **Fraudulent** using a **Random Forest Classifier**.
 
 The model is integrated with a **Streamlit** interface where users can enter transaction details and receive a real-time prediction.
